@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Tacos al pastor",
+    "description": "Tiernos trozos de carne marinada, asada en trompo, envueltos en tortillas de maíz, acompañados de cebolla, cilantro y piña, una joya de la cocina mexicana.",
+    "url": "https://img.freepik.com/foto-gratis/concepto-comida-mexicana-alto-angulo_23-2148629376.jpg?w=1480&t=st=1691691462~exp=1691692062~hmac=1e3b963b9f7eacb218b5b2e2070cd4da404be5fb3ed10d5ff941708e89eafbf8"
+  },
+
+  {
+    "name": "Tostadas",
+    "description": "Crujientes tortillas de maíz cubiertos con sabrosos ingredientes como carne, aguacate, crema y salsa, creando una explosión de sabor y textura en cada bocado.",
+    "url": "https://www.mylatinatable.com/wp-content/uploads/2018/04/Tostadas-4-500x375.jpg"
+  },
+
+  {
+    "name": "Quesadillas",
+    "description": "Tortillas dobladas que abrazan suculentos rellenos, con queso derretido y otros ingredientes como champiñones o carne, ofreciendo una combinación reconfortante y deliciosa.",
+    "url": "https://www.lacostena.com.mx/media/thumbnail/uploads/Recipes/comida/17_quesadillas_de_tinga_al_chipotle_detail.jpg.1920x800_q85_center.jpg"
+  },
+
+  {
+    "name": "Sopes",
+    "description": "Pequeñas bases de masa de maíz gruesa, bordes elevados y ligeramente crujientes, con capas de frijoles, carne, vegetales y toppings, una auténtica joya de la cocina mexicana.",
+    "url": "https://www.maricruzavalos.com/wp-content/uploads/2020/09/sopes-de-picadillo-recipe.jpg"
+  },
+
+  {
+    "name": "Tacos de res",
+    "description": " tiernos trozos de carne de res marinados y cocinados con especias se sirven dentro de tortillas de maíz o harina.",
+    "url": "https://sibeti.com/wp-content/uploads/2021/09/Receta-de-Tacos-de-barbacoa.jpg"
+  },
+
+  {
+    "name": "Torta de res",
+    "description": "Esta suculenta opción se construye en torno a jugosos y tiernos trozos de carne de res, cocidos y sazonados con maestría.",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfGB0Q5Hf9zPMJuwDd9dR0y9UJa4nQvrYOzg&usqp=CAU"
+  },
+
+  {
+    "name": "Tacos Dorados",
+    "description": "Tortillas de maíz rellenas de sabrosa carne, como pollo o res, se enrollan y se doran hasta obtener una textura crujiente y dorada.",
+    "url": "https://mejoresrecetas.me/wp-content/uploads/2021/04/image-1-500x433.png"
+  },
+
+  {
+    "name": "Pozole",
+    "description": "El pozole, una joya de la cocina mexicana, es un reconfortante caldo de maíz hominy, enriquecido con tierna carne de cerdo o pollo. ",
+    "url": "https://i.blogs.es/ee0499/wepik-export-20230502182325/1366_2000.jpeg"
+  },
+
+  {
+    "name": "Tamales",
+    "description": "Envueltos en hojas de maíz, revelan un relleno tierno y aromático que puede variar desde jugosas carnes y salsas",
+    "url": "https://mujer.com.mx/cdn/recipes/IRecipes_06864290015796616246_orig.jpg"
+  }
+
+]
