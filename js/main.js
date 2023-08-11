@@ -24,7 +24,7 @@ const desplegar = document.getElementById("desplegar");
 const btnMenus = document.querySelectorAll(".ul__menu");
 const ver = document.getElementById("verTodos");
 
-const urlJSON = "https://heroic-tartufo-7f6eec.netlify.app/productos.json";
+const urlJSON = "https://raw.githubusercontent.com/SaidGonzalez2003/primer_pagina/main/productos.json";
 const Menu = [];
 
 fetch(urlJSON)
